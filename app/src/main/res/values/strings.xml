@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rich@t</string>
+    <string name="welcome_msg">어서오세요</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="contacts_permission_rationale">NULL</string>
+    <string name="invite_menu_label">친구 초대</string>
+    <string name="invitation_message">상위 1%만의 커뮤니티.\n Rich@t으로 당신을 초대합니다</string>
+    <string name="invitation_cta">NULL</string>
+    <string name="invitation_title">1% 채팅앱, Rich@t</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_up">회원가입</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

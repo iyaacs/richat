@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1004658396900",
+    "firebase_url": "https://richat-4d6e3.firebaseio.com",
+    "project_id": "richat-4d6e3",
+    "storage_bucket": "richat-4d6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004658396900:android:f5e13ae85977cdd3",
+        "android_client_info": {
+          "package_name": "com.iyaa.richat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004658396900-8qrgd8dkt6l1iu9aol25vkmudigtrfmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iyaa.richat",
+            "certificate_hash": "371E4278B91EE364FC96F6BEDA78FB953B824DE9"
+          }
+        },
+        {
+          "client_id": "1004658396900-g2f4uf7lvvm8r788kid3ealergok95em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iyaa.richat",
+            "certificate_hash": "DCDA60A851678AD947D34F904A33FF247EF670B9"
+          }
+        },
+        {
+          "client_id": "1004658396900-9p86rsujc2h9ko0a04epq00ul1aq183r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kWeo7sEIpu_QWF3h-IgenxcKr70H-Ss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004658396900-9p86rsujc2h9ko0a04epq00ul1aq183r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

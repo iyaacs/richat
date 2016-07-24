@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1004658396900-9p86rsujc2h9ko0a04epq00ul1aq183r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://richat-4d6e3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1004658396900</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0kWeo7sEIpu_QWF3h-IgenxcKr70H-Ss</string>
+    <string name="google_app_id" translatable="false">1:1004658396900:android:f5e13ae85977cdd3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0kWeo7sEIpu_QWF3h-IgenxcKr70H-Ss</string>
+    <string name="google_storage_bucket" translatable="false">richat-4d6e3.appspot.com</string>
+</resources>

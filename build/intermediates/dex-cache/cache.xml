@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_0f1ef997841891ebc49f510c223a37e5f525ae66.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.0.0_3756be95cc3779aad2d021833fbdeeacaa4053d5.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.0.0_2f34c19345fd5d5166f6629a49857dbc9bfdfd7a.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-9.0.0_1d394dbf50ed8fc78fd8146b82cf41ba16d19a58.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_f4925422251b76c0fb1d7b4e002993f8ea1a588c.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-base-9.0.0_e85ac85954534f2b5f2019539ae0a7d0f1114f0c.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_03449d713e30efe5fd39ac47cb5ebf6827aaf444.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_a29487cfb3ac213a6500eb6e011895e8f9e76c35.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-9.0.0_93fb73ebe73b9ab03934d673cf392637cafe04c4.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_fedcdabfa7b5ec8b8c59cd9679349654f45a2904.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-9.0.0_5ffb05e778b1895d956e573443a55d95769a4fe9.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-9.0.0_b5ea2e2d7b23d9025589cdccb4c3b17808b398fb.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-database-connection-9.0.0_192e9888f8158fed7fecf678d989bb3bd3e1a631.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-9.0.0_e7905b62e437ae3768d3464194c51369ec363d95.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-crash-9.0.0_36d28d821f2f161632de0bacc105424677fbdf9e.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/glide-3.6.1_be9fa4cab12d7ba21882abf27f16689865243795.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_405d8ebc0d79066e3b606d63cf8f210a2f937c28.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_ef93f5fa5058b9b8a13bfcdd3c029896e86240a9.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.0.0_a70536ca4161ea12aa9562799b55507318782031.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-module-9.0.0_51858ef95d3c636bdcf9c193b49d0648d0a60bc2.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_773daef80b4990813275fcd3dfa4a414cad48c6b.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.firebaseui-firebase-ui-database-0.4.0_baadb1f1fb0e238b58d4499e27c5cb4f41ef3f02.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.0.0_8dde2e991fd4414270fd1295b69a7b63b3901202.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-config-9.0.0_bdd52cd0f462b077bd47611154e9c247cdafb960.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.0.0_e5a0c412c0f1ce30af5ce3c6545d9e56373498a6.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.0.0_1da898aba9137c5f5dde9c8bd521eb36bf21a53f.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.0.0_d5de78aa452697758175e628b13bdea13f075e56.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-auth-common-9.0.0_0e2f5ac4dfb0eaf071c5b819854eb79850924d69.jar" />
+    </item>
+    <item
+        jar="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/MACBOOKAIR/Desktop/kanpeki/Rich@t/app/build/intermediates/pre-dexed/release/de.hdodenhof-circleimageview-1.3.0_c78112ac0305b03099fe6a8d11f4a1afa26c55de.jar" />
+    </item>
+
+</items>
